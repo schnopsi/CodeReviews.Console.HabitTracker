@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Schnopsi.HabitTracker": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\schnops\\source\\repos\\schnopsi\\CodeReviews.Console.HabitTracker\\Schnopsi.HabitTracker\\"
+    }
+  }
+}
